@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm PRANAV 💎
+
+<p align="center">
+  <img src="https://i.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.webp"/>
+</p>
+
+I'm a Full Stack developer from kochi,India
 
 <!--
 **PRANAV-K-P/PRANAV-K-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

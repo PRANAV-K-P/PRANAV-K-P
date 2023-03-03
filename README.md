@@ -11,7 +11,6 @@ Hi, my name is Pranav K P and I am a BCA graduate from Mahatma Gandhi University
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAV-K-P&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PRANAV-K-P&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
